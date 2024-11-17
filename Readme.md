@@ -3,7 +3,7 @@
 
 **LiteraAlura** Parte de un desafío del curso de Java y Spring Framework y consiste en una aplicación en realizada en Java para consultar un catálogo de autores y libros.
 
-La aplicación realiza **búsquedas en una API externa, ** que una base de datos libros y sus autores. 
+La aplicación realiza **búsquedas en una API externa,** de libros y sus autores. 
 
 La aplicación utiliza la API de [Gutendex](https://gutendex.com/ "API para libros de dominio público") 📜, para obtener datos de libros, a través de la cual se obtienen respuestas en formato JSON, que serán almacenados en una base de datos PostgreSQL,
 
